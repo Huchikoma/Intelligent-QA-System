@@ -8,7 +8,7 @@ ipython==6.2.0
 jieba==0.39
 Jinja2==2.8
 nltk==3.2.5
-numpy==1.13.1
+numpy==1.22.0
 pyltp==0.2.1
 PyMySQL==0.7.11
 requests==2.9.1
